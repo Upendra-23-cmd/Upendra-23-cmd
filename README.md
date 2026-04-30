@@ -80,7 +80,7 @@ to improve delivery speed, reliability, and security posture across the full sof
 ## Experience
 
 ### DevOps Engineer Trainee · Hisan Labs
-`Jan 2025 – Present` · Raipur, India
+`July 2025 – Dec 2025`  pune, India
 
 - Deployed a student registration application using **Docker containers on AWS EC2/S3** with **canary rollout** and rollback strategies, minimising deployment risk in production
 - Automated daily cloud health checks using **Bash scripts** and **CloudWatch dashboards**, reducing manual monitoring effort by **40%**
