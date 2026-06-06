@@ -97,6 +97,18 @@ to improve delivery speed, reliability, and security posture across the full sof
 
 ## Experience
 
+## Experience
+
+### DevOps Engineer · Air Dive
+`Present`  Remote / India
+
+- Working as a **DevOps Engineer** responsible for designing and maintaining cloud infrastructure, CI/CD pipelines, and deployment automation
+- Managing containerised workloads using **Docker and Kubernetes** with focus on scalability and high availability
+- Implementing infrastructure-as-code practices using **Terraform** for reproducible, auditable cloud environments
+- Collaborating with development teams to streamline delivery workflows and reduce time-to-production
+
+---
+
 ### DevOps Engineer Trainee · Hisan Labs
 `July 2025 – Dec 2025`  Pune, India
 
@@ -104,8 +116,6 @@ to improve delivery speed, reliability, and security posture across the full sof
 - Automated daily cloud health checks using **Bash scripts** and **CloudWatch dashboards**, reducing manual monitoring effort by **40%**
 - Provisioned and configured AWS resources including **EC2, S3, IAM roles, and VPC security groups** with least-privilege access principles
 - Authored **runbooks, deployment SOPs, and incident response checklists**, improving team response time and reducing knowledge silos
-
----
 
 ## Projects
 
@@ -153,47 +163,6 @@ A production-ready microservice starter kit for DevOps learners and backend engi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
----
-
-### Full-Stack CI/CD Pipeline
-`React` `Spring Boot` `MariaDB` `Docker` `Docker Compose` `GitHub Actions` `AWS`
-
-Built a production-grade full-stack application with multi-container orchestration and a
-**3-stage CI/CD pipeline** — build → test → deploy — using GitHub Actions and AWS.
-Achieved **99.8% uptime** through rolling updates, health checks, and proper environment isolation.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Upendra-23-cmd/EasyCRUD)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-### DevSecOps Pipeline
-`Terraform` `AWS GuardDuty` `CloudTrail` `GitHub Actions` `Gitleaks` `Trivy` `tfsec` `Dependabot`
-
-End-to-end DevSecOps pipeline with security scanning integrated at every stage of the CI/CD workflow.
-Enabled real-time threat detection via **AWS GuardDuty and CloudTrail**.
-Automated dependency vulnerability checks with **Dependabot** and **npm audit**.
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Upendra-23-cmd/timofx-main)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
-
----
-
-### Cloud-Deployed Monolithic App
-`AWS EC2` `Linux` `Bash`
-
-Provisioned a cloud instance for a monolithic web application.
-Added health monitoring scripts and auto-restart logic for basic self-healing,
-improving service reliability without requiring manual intervention on failure.
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
